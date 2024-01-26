@@ -1,9 +1,7 @@
-
 from ss_chatbot import chatbot as cb
 import time
 import streamlit as st
 import os
-
 
 
 DB_PATH = './Chroma_db'
