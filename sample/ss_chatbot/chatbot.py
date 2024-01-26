@@ -11,10 +11,9 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 import logging
 from dotenv import load_dotenv
-
 import os
 import shutil
-# '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'
+
 
 
 class SingletonClass:
