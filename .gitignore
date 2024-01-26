@@ -38,5 +38,5 @@ ehthumbs.db
 Thumbs.db
 
 
-./sample/Chroma_db/*
-./sample/ss_chatbot/__pycache__
+sample/Chroma_db/*
+sample/ss_chatbot/__pycache__
