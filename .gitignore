@@ -19,6 +19,7 @@
 *.rar
 *.tar
 *.zip
+*.pyc
 
 # Logs and databases #
 ######################
@@ -39,3 +40,4 @@ Thumbs.db
 
 
 sample/Chroma_db/*
+sample/ss_chatbot/__pycache__/*
