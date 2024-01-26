@@ -38,4 +38,5 @@ ehthumbs.db
 Thumbs.db
 
 
-sample/Chroma_db/*
+./sample/Chroma_db/*
+./sample/__pycache__
