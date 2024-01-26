@@ -13,7 +13,7 @@ DOCS_PATH = './utils/docs/'
 embedding_model = ''
 llm = ''
 openai_api_key = ''
-#open_ai_key = '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'
+
 
 DOCS = []
 starting_msg = []

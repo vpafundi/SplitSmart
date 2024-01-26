@@ -16,4 +16,5 @@ hugchat==0.0.8
 doctran==0.0.14
 anyio==3.7.1
 openai==1.6.1
-pysqlite3-binary==3.35
+
+#pysqlite3-binary==3.35
