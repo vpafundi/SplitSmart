@@ -138,7 +138,7 @@ else:
 with st.sidebar:
     
     "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
-    "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
+    "[View the source code](https://github.com/vpafundi/SplitSmart/tree/main)"
     st.info("LLM: {}".format(st.session_state['llm']))
     st.info("Embedding Model: {}".format(st.session_state['embedding_model']))
     st.info("Status OpenAI api key: {}".format("Loaded ✅" if st.session_state['openai_api_key'] is not None else "To Load"))
